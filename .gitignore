@@ -1,0 +1,5 @@
+#Il simbolo di cancelletto inizia un commento e i caratteri successivi vengono ignorati
+*.tmp	# Ignora i file con estensione .tmp
+cache/	# Ignora i file della cartella cache
+log.txt	# Ignora il file log.txt
+*.password #ignora file password
